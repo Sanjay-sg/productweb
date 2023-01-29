@@ -725,7 +725,7 @@ styles.css
 ![OUTPUT](./contents.png)
 
 ## HTML Validator
-![OUTPUT](./validator.png)
+![HTML VALIDATOR](./Valid1.png)
 
 
 ## Result:
